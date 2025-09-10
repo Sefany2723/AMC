@@ -1,2 +1,0 @@
-# AMC
-Automatic Modulation Classification
